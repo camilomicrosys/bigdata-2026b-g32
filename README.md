@@ -1,4 +1,4 @@
-# Big Data (ISD-25) — Grupo NN
+# Big Data (ISD-25) — Grupo NN32
 
 **IU Digital de Antioquia** · Ingeniería de Software y Datos · Semestre V · 2026-2
 
@@ -8,7 +8,7 @@
 
 | Nombre | Correo institucional | Usuario de GitHub |
 |---|---|---|
-| | | |
+| german camilo agudelo castro|camiloagudelo090@gmail.com | camilomicrosys|
 | | | |
 | | | |
 
