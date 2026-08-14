@@ -9,7 +9,7 @@
 | Nombre | Correo institucional | Usuario de GitHub |
 |---|---|---|
 | german camilo agudelo castro|camiloagudelo090@gmail.com | camilomicrosys|
-| | | |
+| prueba pull en databricks| | |
 | | | |
 
 ## Caso de estudio
